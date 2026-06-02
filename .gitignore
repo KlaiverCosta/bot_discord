@@ -1,0 +1,9 @@
+.env
+
+#audios
+/audio_library
+/downloads
+audio_db.json
+
+#logs
+/logs
